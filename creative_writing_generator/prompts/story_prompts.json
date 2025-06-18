@@ -1,0 +1,6 @@
+{
+  "fantasy": "Write a fantasy story about {protagonist} in {setting}. Tone: {tone}. Include: {special_requirement}.",
+  "sci-fi": "Write a sci-fi story where {protagonist} explores {setting}. Tone: {tone}. Include: {special_requirement}.",
+  "mystery": "Write a mystery story where {protagonist} investigates a crime in {setting}. Tone: {tone}. Include: {special_requirement}.",
+  "romance": "Write a romantic story featuring {protagonist} in {setting}. Tone: {tone}. Include: {special_requirement}."
+}
